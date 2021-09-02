@@ -21,9 +21,9 @@ Text Credits:
 
 ###Usage:
 
-word = cipher("banana")
-print (word)
-
+word = cipher("banana")<br>
+print (word)<br>
+<br><br>
 
-cipher(word)
+cipher(word)<br>
 'banana'
