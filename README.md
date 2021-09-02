@@ -19,11 +19,13 @@ Text Credits:
 <a href ="https://www.101computing.net/xor-encryption-algorithm/">101 Computing</a>
 
 
-###Usage:
+### Usage:
 
+<i>
 word = cipher("banana")<br>
 print (word)<br>
 <br><br>
 
 cipher(word)<br>
 'banana'
+</i>
