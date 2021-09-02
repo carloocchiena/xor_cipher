@@ -17,3 +17,13 @@ Text Credits:
 
 <a href ="https://en.wikipedia.org/wiki/XOR_cipher">Wikipedia</a><br>
 <a href ="https://www.101computing.net/xor-encryption-algorithm/">101 Computing</a>
+
+
+###Usage:
+
+word = cipher("banana")
+print (word)
+
+
+cipher(word)
+'banana'
